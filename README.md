@@ -19,4 +19,4 @@ I'm studying field of study Computer Science at Kasetsart University
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/bn0q"><img src="https://github-readme-stats.vercel.app/api?username=qn0d&show_icons=true&hide=stars,&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="qn0d's GitHub stats" /></a>
+<a href="http://www.github.com/bn0q"><img src="https://github-readme-stats.vercel.app/api?username=bn0q&show_icons=true&hide=stars,&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="bn0q's GitHub stats" /></a>
